@@ -79,4 +79,3 @@ const endQuiz = () => {
 };
 
 loadQuestion();
-
